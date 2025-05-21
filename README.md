@@ -45,7 +45,7 @@ pip install tensorflow keras matplotlib numpy pandas scikit-learn
 
 ## Author
 
-Arian Ghadirzadeh
-Deep Learning Course (TDIS22) – Assignment 1
-Jönköping University, School of Engineering (JTH)
+Arian Ghadirzadeh<br>
+Deep Learning Course (TDIS22) – Assignment 1<br>
+Jönköping University, School of Engineering (JTH)<br>
 April 2025
