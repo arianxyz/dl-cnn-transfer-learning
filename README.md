@@ -43,7 +43,7 @@ pip install tensorflow keras matplotlib numpy pandas scikit-learn
 
 2. Open notebook.ipynb using Jupyter Notebook, JupyterLab, or VS Code, and run all cells sequentially to reproduce the experiments.
 
-**Author:**
+## Author
 
 Arian Ghadirzadeh
 Deep Learning Course (TDIS22) – Assignment 1
